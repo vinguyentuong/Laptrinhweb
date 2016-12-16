@@ -1,0 +1,16 @@
+/* CSS Document */
+#container{width:90%; margin:0 auto}
+#header{height:100px; background:#0FF}
+#header menu a{color:#006; font-weight:bold}
+#content{min-height:400px; background:#0FC}
+#content #left{width:25%; float:left; background-color:#0f0ff1; min-height:400px}
+#content #right{width:74%; float:right; background-color:#00F0FF; min-height:400px}
+#right .title{font-size:15pt; background-color:green}
+#right .sanpham{width:250px; background-color:#c09; float:left; margin:2px; overflow:hidden}
+#right .sanpham img{width:230px; margin:0 auto}
+#right img.chitiet{width:90%}
+#footer{height:50px; background:#CCF;}
+
+div.menu a{width:120px;background-color: #f1f1f1; margin:2px; display: block; float:left; font-size:15pt}
+div.menu a:hover{background-color: #ff0000; }
+
